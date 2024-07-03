@@ -6,7 +6,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = os.environ.get('SECRET_KEY', 'default_django_key')
 
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['158.160.91.200', '127.0.0.1', 'localhost', 'mykittypro.zapto.org']
 
