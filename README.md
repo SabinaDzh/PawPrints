@@ -6,7 +6,6 @@
 ## Стек проекта:
 - Python 
 - Docker 
-- Django 
 - Nginx 
 - Gunicorn
 - REST framework
